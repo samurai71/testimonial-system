@@ -11,5 +11,9 @@
         "typescript",
         "typescriptreact"
     ],
-    "prettier.enable": true
+    "prettier.enable": true,
+    "cSpell.words": [
+        "turbopack",
+        "unrs"
+    ]
 }
